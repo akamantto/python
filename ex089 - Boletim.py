@@ -1,3 +1,4 @@
+#Feito pra estudo de listas
 from time import sleep as s
 boletim = []
 aluno = []
